@@ -4,3 +4,6 @@
 <a href="https://github.com/zakopuro/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakopuro&theme=dracula" />
 </a>
+
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zakopur0/competition)
+![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/competition/light)
