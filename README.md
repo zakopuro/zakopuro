@@ -6,3 +6,4 @@
 </a>
 
 ![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zakopur0/competition)
+![Notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zakopur0/Notebook)
