@@ -5,6 +5,3 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakopuro&theme=dracula" />
 </a>
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zakopur0/competition)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zakopur0/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zakopur0/discussion)
